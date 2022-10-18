@@ -1,0 +1,35 @@
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Vollkorn', 'Georgia', serif;
+}
+
+p {
+  line-height: 1.6;
+  letter-spacing: -0.005em;
+}
+
+img {
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-header, .grid-container {
+  max-width: 2200px;
+  margin-inline: auto;
+}
